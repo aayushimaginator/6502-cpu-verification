@@ -1,0 +1,10 @@
+cpu_6052.cache/
+cpu_6052.runs/
+cpu_6052.hw/
+cpu_6052.sim/
+cpu_6052.ip_user_files/
+cpu_6052.srcs/
+*.jou
+*.log
+.Xil/
+.directory
